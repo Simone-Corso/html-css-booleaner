@@ -18,6 +18,9 @@ background-size: 35%;
 .font-light-grey{
     color: gray;
 }
+table{
+    border-collapse: collapse;
+}
 
 thead{
     color: white;
