@@ -15,6 +15,9 @@ background-size: 35%;
 .font-light-blue{
     color: #25aae4;
 }
+.font-color-white{
+    color: white;
+}
 .font-light-grey{
     color: gray;
 }
@@ -23,7 +26,6 @@ table{
 }
 
 thead{
-    color: white;
     background-color: #25aae4;
 }
 .width-25{
