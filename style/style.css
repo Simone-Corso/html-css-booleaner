@@ -4,6 +4,10 @@ background-repeat: repeat-x;
 background-color: #4ea0ff; 
 background-size: 35%;
 }
+thead{
+    color: white;
+
+}
 
 .logo-booleaner{
     height: 150px;
