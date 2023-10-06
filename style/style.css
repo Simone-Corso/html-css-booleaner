@@ -29,6 +29,9 @@ thead{
 .width-50{
     width: 50%;
 }
+.bg-light-blue{
+    background-color: #b0e4f1;
+}
 
 h1{
     text-align: left;
