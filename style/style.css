@@ -37,6 +37,11 @@ thead{
 .bg-light-blue{
     background-color: #b0e4f1;
 }
+.footer-image{
+    height: 200px;
+    width: 300px;
+
+}
 
 h1{
     text-align: left;
